@@ -1,0 +1,29 @@
+[1;31m
+Start test 1[0m
+
+(  .   ____          _            __ _ _
+) /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+*( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
++ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+*  '  |____| .__|_| |_|_| |_\__, | / / / /
+) =========|_|==============|___/=/_/_/_/
++ :: Spring Boot ::        (v2.2.2.RELEASE)
+
+ä2020-08-14 09:47:47.724  INFO 15208 --- [    Test worker] engine.WebQuizEngine                     : Starting WebQuizEngine on rox with PID 15208 (started by bexx in /home/bexx/IdeaProjects/Web Quiz Engine/Web Quiz Engine/task)
+¦2020-08-14 09:47:47.727  INFO 15208 --- [    Test worker] engine.WebQuizEngine                     : No active profile set, falling back to default profiles: default
+’2020-08-14 09:47:48.358  INFO 15208 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8889 (http)
+2020-08-14 09:47:48.365  INFO 15208 --- [    Test worker] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+•2020-08-14 09:47:48.365  INFO 15208 --- [    Test worker] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.29]
+˜2020-08-14 09:47:48.412  INFO 15208 --- [    Test worker] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+¤2020-08-14 09:47:48.413  INFO 15208 --- [    Test worker] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 660 ms
+œ2020-08-14 09:47:48.587  INFO 15208 --- [    Test worker] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+›2020-08-14 09:47:48.698  INFO 15208 --- [    Test worker] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 14 endpoint(s) beneath base path '/actuator'
+¡2020-08-14 09:47:48.738  INFO 15208 --- [    Test worker] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8889 (http) with context path ''
+¤2020-08-14 09:47:48.740  INFO 15208 --- [    Test worker] engine.WebQuizEngine                     : Started WebQuizEngine in 1.217 seconds (JVM running for 1.669)
+Ÿ2020-08-14 09:47:48.923  INFO 15208 --- [nio-8889-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+Ž2020-08-14 09:47:48.924  INFO 15208 --- [nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+†2020-08-14 09:47:48.929  INFO 15208 --- [nio-8889-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 5 ms
+[1;31m
+Start test 2[0m
+[1;31m
+Start test 3[0m
